@@ -1,2 +1,4 @@
-print("helow world")
-print("helow evry body")
+print("hello world")
+print("hello evry body")
+print(" hello dog")
+print ("hellow cat")
